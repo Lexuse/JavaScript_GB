@@ -262,7 +262,8 @@ func();
 
 
 ### Домашнее задание 3:
-<https://github.com/Lexuse/JavaScript_GB/tree/main/Homework/3>
+<https://github.com/Lexuse/JavaScript_GB/tree/main/Homework/3>  
+
 адание 1.  
 Создайте функцию которая возводит переданное число в куб, необходимо вывести в консоль результат 2^3 степени + 3 ^ 3 степени
 
